@@ -4,7 +4,36 @@
     width: 60px;
 }
 .navbar{
-    background: #4B0082;
+  background: rgb(92,28,138);
+  background: linear-gradient(52deg, rgba(92,28,138,1) 40%, rgba(54,48,171,1) 85%);
 }
+.textlogo{
+  padding-left: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+}
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#452c63, #800080);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 
   
