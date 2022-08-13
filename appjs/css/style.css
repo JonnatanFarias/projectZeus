@@ -4,8 +4,8 @@
     width: 60px;
 }
 .navbar{
-  background: rgb(92,28,138);
-  background: linear-gradient(52deg, rgba(92,28,138,1) 40%, rgba(54,48,171,1) 85%);
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
 }
 .textlogo{
   padding-left: 10%;
